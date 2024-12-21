@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yuejiao Di
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yuejiao
+last_name: Di
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Boston University College fo Communication
+    url: https://www.bu.edu/com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -48,12 +48,14 @@ profiles:
     label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Author's website URL
-website: ""
+website: "https://fionadi2003.wixsite.com/my-site-2"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+
+​
+
+My research interests focus on communication technology, particularly how social media influences or shapes people's behavior. My studies explore the intersection of communication technology and user behavior, primarily using qualitative methods such as surveys, as well as computational approaches like machine learning and natural language processing.
